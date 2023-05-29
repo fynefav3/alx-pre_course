@@ -1,1 +1,1 @@
-Ensuring that i finish this softwre engineering course this time around and also others in documenting my processes.
+Ensuring that i finish ALX software engineering course this time around and also help others in documenting my processes.
